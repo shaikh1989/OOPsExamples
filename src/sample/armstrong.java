@@ -21,15 +21,8 @@ public class armstrong {
 		else
 		{
 			System.out.println("not armstromg");
-			
-					
-			
+				
 		}
-		
-				
-				
-			
-
 	}
 
 }
